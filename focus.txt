@@ -1,5 +1,5 @@
 sspai.com
 smzdm.com
-*.hi-pda.com
-*.douban.com
-*.weibo.com
+*hi-pda.com
+*douban.com
+*weibo.com
