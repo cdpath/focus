@@ -1,5 +1,7 @@
-sspai.com
-smzdm.com
+.sspai.com
+.smzdm.com
 .hi-pda.com
 .douban.com
-weibo.com
+.weibo.com
+.douban.com
+.v2ex.com
