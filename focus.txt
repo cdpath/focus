@@ -10,3 +10,4 @@
 .twitter.com
 .jandan.net
 .fanfou.com
+.reddit.com
